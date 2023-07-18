@@ -1,0 +1,14 @@
+.bodyBackground 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 15px;
+   background-color: wheat;
+   border-style: ridge;
+   border-color: coral;
+}
+
